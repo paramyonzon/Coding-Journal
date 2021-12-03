@@ -13,3 +13,4 @@ Now, I have (1) a working Clarity starter project and (2) I understand how to te
 
 Proof of Work
 
+<img width="684" alt="Screen Shot 2021-12-02 at 11 45 16 PM" src="https://user-images.githubusercontent.com/25642985/144548187-759622ef-4b51-472c-913a-1aeba8ef6054.png">
